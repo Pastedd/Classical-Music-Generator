@@ -1,6 +1,6 @@
 # Classical Music Generator
 
 1. Use main.py to learn the neural network.
-2. Create new .midi files using neural networks learned through result.py.
+2. Create new .midi files use neural networks learned through result.py.
 
-- The training set consists of the Classic ver. of Violet Evergarden.
+- The training set consists of the Classic ver. of Violet Evergarden Soundtrack.
